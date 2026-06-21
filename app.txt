@@ -1,1 +1,1 @@
-BUG: login is broken
+FIXED: login works again
